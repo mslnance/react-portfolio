@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.883912da.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.b4530b3e.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.b4530b3e.chunk.js.map",
-    "runtime-main.js": "/react-portfolio/static/js/runtime-main.1d992053.js",
-    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.1d992053.js.map",
-    "static/js/2.102548e6.chunk.js": "/react-portfolio/static/js/2.102548e6.chunk.js",
-    "static/js/2.102548e6.chunk.js.map": "/react-portfolio/static/js/2.102548e6.chunk.js.map",
-    "index.html": "/react-portfolio/index.html",
-    "precache-manifest.f0ef929cc2451110e3e63ce8224856db.js": "/react-portfolio/precache-manifest.f0ef929cc2451110e3e63ce8224856db.js",
-    "service-worker.js": "/react-portfolio/service-worker.js",
-    "static/css/main.883912da.chunk.css.map": "/react-portfolio/static/css/main.883912da.chunk.css.map",
-    "static/js/2.102548e6.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.102548e6.chunk.js.LICENSE.txt",
-    "static/media/actively-distanced.jpg": "/react-portfolio/static/media/actively-distanced.37cbb627.jpg",
-    "static/media/cover-image.jpg": "/react-portfolio/static/media/cover-image.402a471b.jpg",
-    "static/media/covid-ca.jpg": "/react-portfolio/static/media/covid-ca.4493a8a7.jpg",
-    "static/media/run-buddy.jpg": "/react-portfolio/static/media/run-buddy.c601a767.jpg",
-    "static/media/taskmaster-pro.jpg": "/react-portfolio/static/media/taskmaster-pro.cd70b49f.jpg",
-    "static/media/wanderpro.jpg": "/react-portfolio/static/media/wanderpro.8ded0b92.jpg"
+    "main.css": "/mslnance-portfolio/static/css/main.883912da.chunk.css",
+    "main.js": "/mslnance-portfolio/static/js/main.7338b42a.chunk.js",
+    "main.js.map": "/mslnance-portfolio/static/js/main.7338b42a.chunk.js.map",
+    "runtime-main.js": "/mslnance-portfolio/static/js/runtime-main.6cb87be0.js",
+    "runtime-main.js.map": "/mslnance-portfolio/static/js/runtime-main.6cb87be0.js.map",
+    "static/js/2.102548e6.chunk.js": "/mslnance-portfolio/static/js/2.102548e6.chunk.js",
+    "static/js/2.102548e6.chunk.js.map": "/mslnance-portfolio/static/js/2.102548e6.chunk.js.map",
+    "index.html": "/mslnance-portfolio/index.html",
+    "precache-manifest.c354e51f182576b90c3be7a755b53f7c.js": "/mslnance-portfolio/precache-manifest.c354e51f182576b90c3be7a755b53f7c.js",
+    "service-worker.js": "/mslnance-portfolio/service-worker.js",
+    "static/css/main.883912da.chunk.css.map": "/mslnance-portfolio/static/css/main.883912da.chunk.css.map",
+    "static/js/2.102548e6.chunk.js.LICENSE.txt": "/mslnance-portfolio/static/js/2.102548e6.chunk.js.LICENSE.txt",
+    "static/media/actively-distanced.jpg": "/mslnance-portfolio/static/media/actively-distanced.37cbb627.jpg",
+    "static/media/cover-image.jpg": "/mslnance-portfolio/static/media/cover-image.402a471b.jpg",
+    "static/media/covid-ca.jpg": "/mslnance-portfolio/static/media/covid-ca.4493a8a7.jpg",
+    "static/media/run-buddy.jpg": "/mslnance-portfolio/static/media/run-buddy.c601a767.jpg",
+    "static/media/taskmaster-pro.jpg": "/mslnance-portfolio/static/media/taskmaster-pro.cd70b49f.jpg",
+    "static/media/wanderpro.jpg": "/mslnance-portfolio/static/media/wanderpro.8ded0b92.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1d992053.js",
+    "static/js/runtime-main.6cb87be0.js",
     "static/js/2.102548e6.chunk.js",
     "static/css/main.883912da.chunk.css",
-    "static/js/main.b4530b3e.chunk.js"
+    "static/js/main.7338b42a.chunk.js"
   ]
 }
