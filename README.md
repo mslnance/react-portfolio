@@ -7,7 +7,7 @@
 This is my portfolio recreated using React
 
 
-Deployed Application [https://mslnance-portfolio.herokuapp.com/](https://mslnance-portfolio.herokuapp.com/)
+Deployed Application [http://mslnance.github.io/mslnance-portfolio](http://mslnance.github.io/mslnance-portfolio)
 
 ## Table of Contents
 
