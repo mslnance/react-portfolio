@@ -7,7 +7,7 @@
 This is my portfolio recreated using React
 
 
-Deployed Application [http://mslnance.github.io/mslnance-portfolio](http://mslnance.github.io/mslnance-portfolio)
+Deployed Application [http://mslnance.github.io/react-portfolio](http://mslnance.github.io/react-portfolio)
 
 ## Table of Contents
 
